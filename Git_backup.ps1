@@ -63,3 +63,8 @@ cd D:\__Git\WIKI
 git stash
 git pull https://github.com/sipubot/WIKI.git master
 git stash clear
+
+cd D:\__Git\RS-png_json_builder
+git stash
+git pull https://github.com/sipubot/RS-png_json_builder.git
+git stash clear
